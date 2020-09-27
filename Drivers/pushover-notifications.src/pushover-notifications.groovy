@@ -10,7 +10,7 @@
 *       2020-01-25 Dan Ogorchock         Added ImportURL Metadata & Minor code cleanup - no functionality changest
 *       2020-08-13 Steven Dale (tmleafs) Added title and sound options from the message. encase your title in ^^ sound in ##, added default title to preferences
 *       2020-09-23 Dan Ogorchock         Added support for [HTML] formatting of messages
-*       2020-09-27 @s1godfrey            Added device name option from the message.  Encase your device name in **, e.g. "[L]*MyPhone*This is a test!"
+*       2020-09-27 Stephen Godfrey       Added device name option from the message.  Encase your device name in **, e.g. "[L]*MyPhone*This is a test!"
 *
 *   Inspired by original work for SmartThings by: Zachary Priddy, https://zpriddy.com, me@zpriddy.com
 *
